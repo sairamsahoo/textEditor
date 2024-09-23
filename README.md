@@ -1,1 +1,2 @@
-# textEditor
+# Python textEditor
+Autho: Sairam Sahoo
